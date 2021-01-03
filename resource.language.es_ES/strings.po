@@ -803,7 +803,7 @@ msgstr "Habilitar Scrobbling de Trakt"
 #: \resources\settings.xml:299
 msgctxt "#30144"
 msgid "Revoke Trakt Authentication..."
-msgstr "Revocar Autorización de Trakt"
+msgstr "Revocar Autorización de Trakt..."
 
 #: \resources\settings.xml:221 \resources\settings.xml:303
 msgctxt "#30145"
@@ -1161,7 +1161,7 @@ msgstr "ID de Vista General de Menú"
 #: \resources\lib\modules\router.py:133
 msgctxt "#30208"
 msgid "[COLOR red]Error:[/COLOR] No Debrid accounts were identified."
-msgstr "[COLOR red]ERROR:[/COLOR] No se han identificado cuentas Debrid"
+msgstr "[COLOR red]ERROR:[/COLOR] No se han identificado cuentas Debrid."
 
 #: \resources\lib\modules\router.py:134
 msgctxt "#30209"
@@ -2197,7 +2197,8 @@ msgstr "Título Lista - Creador"
 msgctxt "#30397"
 msgid ""
 "Discover movies that are Popular, Trending, Recommended for you and more."
-msgstr "Descubrir películas Populares, en Tendencia, Recomendado para Ti y más"
+msgstr ""
+"Descubrir películas Populares, en Tendencia, Recomendado para Ti y más."
 
 #: \resources\lib\gui\homeMenu.py:16
 msgctxt "#30398"
@@ -2418,7 +2419,7 @@ msgid ""
 "viewers are returned first."
 msgstr ""
 "Devuelve todas las películas recientes que están siendo vistas en este "
-"momento. Las películas con más seguidores se devuelven primero"
+"momento. Las películas con más seguidores se devuelven primero."
 
 #: \resources\lib\gui\movieMenus.py:79
 msgctxt "#30434"
@@ -2457,7 +2458,7 @@ msgid ""
 "movie appears on."
 msgstr ""
 "Devuelve las películas más anticipadas basado en el número de listas de "
-"Trakt en que aparece"
+"Trakt en que aparece."
 
 #: \resources\lib\gui\movieMenus.py:120
 msgctxt "#30440"
@@ -2466,12 +2467,12 @@ msgid ""
 "Updated every Monday morning."
 msgstr ""
 "Devuelve el top 10 en Taquilla en los EEUU del último fin de semana. "
-"Actualizado cada Lunes por la mañana"
+"Actualizado cada Lunes por la mañana."
 
 #: \resources\lib\gui\movieMenus.py:125
 msgctxt "#30441"
 msgid "Returns all movies updated this month."
-msgstr "Regresa todas las películas actualizadas en este mes"
+msgstr "Regresa todas las películas actualizadas en este mes."
 
 #: \resources\lib\gui\movieMenus.py:130
 msgctxt "#30442"
@@ -2598,7 +2599,7 @@ msgid ""
 "appears on."
 msgstr ""
 "Devuelve las series más anticipadas basado en el número de listas de Trakt "
-"en que aparece"
+"en que aparece."
 
 #: \resources\lib\gui\tvshowMenus.py:128
 msgctxt "#30462"
@@ -2946,12 +2947,12 @@ msgstr "Se ha borrado el caché de la base de datos de torrentes"
 #: \resources\settings.xml:295
 msgctxt "#30523"
 msgid "Start scrobble after seconds."
-msgstr "Iniciar Scrobble luego de # segundos"
+msgstr "Iniciar Scrobble luego de # segundos."
 
 #: \resources\settings.xml:297
 msgctxt "#30524"
 msgid "Minimum scrobble percentage before marked watched."
-msgstr "Porcentaje mínimo de scrobble antes de marcar como Visto"
+msgstr "Porcentaje mínimo de scrobble antes de marcar como Visto."
 
 #: \resources\lib\gui\windows\source_select.py:81
 #: \resources\lib\modules\resolver\torrent_resolvers\base_resolver.py:77
